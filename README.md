@@ -47,8 +47,7 @@ fields) are deliberately left untouched — verified by bytecode reference analy
 ## Testing
 
 GTNH 2.9.0-RC-2 / Java 25, multiple in-game regression passes (board ops, solver,
-cloud sync, task system, power panel, NEI integration). See the issue reports in
-`docs/` for bugs found during testing (filed upstream as #515 comment / #519 / #520).
+cloud sync, task system, power panel, NEI integration). See the issue reports in the issue-*.md files` for bugs found during testing (filed upstream as #515 comment / #519 / #520).
 
 ## Upstreaming
 
