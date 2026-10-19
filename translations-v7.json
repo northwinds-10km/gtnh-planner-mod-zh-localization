@@ -1,0 +1,12 @@
+{
+ "version": "v7",
+ "based_on": "v6",
+ "fixes": {
+  "PlanTabs": "New plan->新建计划, New task board->新建任务看板, tasks->任务",
+  "LibraryView": "New plan, 库下载错误提示, Up to(基础版胶水/v25 recipe)",
+  "QuestBook": "quest 选择器顶部提示 + 6 条动作描述",
+  "TaskPanel$Page": "按钮 添加 Quest -> 添加任务（用户修订：任务看板语境应为'任务'而非'任务书'）"
+ },
+ "note": "教程类(Script/Film/Rebuild)的 New plan 未动——教程已结案且涉及脚本查找串",
+ "rebuilt_from": "v6（v7 首次打包读写同文件致损坏，已完整重建）"
+}

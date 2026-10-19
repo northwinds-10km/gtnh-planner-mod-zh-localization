@@ -1,0 +1,7 @@
+{
+ "version": "v13.7",
+ "based_on": "v13.6",
+ "scope": "cloud 包提示语 (10类×双版本, 164处)",
+ "skipped": "协议/键/正则/UA/metadata; v25 glue=recipe 形态分别处理",
+ "upstream_bug": "非配方发电机 power.euPerTick=undefined (见 upstream_issue_nonrecipe_generator.md)"
+}

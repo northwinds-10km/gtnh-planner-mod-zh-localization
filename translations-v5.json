@@ -1,0 +1,20 @@
+{
+ "version": "v13.6",
+ "based_on": "v13.5",
+ "round2_changes": {
+  "Zhuhai Fishing Port": "珠海渔场",
+  "Exo-Foundry": "异星铸造塔",
+  "Multi Smelter": "工业熔炉",
+  "Novice Magic Energy Converter": "新人魔法能源转换器",
+  "Grandmaster Magic Energy Absorber": "大师魔法能源吸收器",
+  "Master Magic Energy Absorber": "导师魔法能源吸收器",
+  "Mass Fabricator": "UU增幅液生产器",
+  "Nano Forge": "纳米锻炉",
+  "Amazon Warehousing Depot": "亚马逊仓库",
+  "Elemental Duplicator": "大型元素复制机",
+  "Space Research": "太空研究",
+  "Unpackager": "解包器"
+ },
+ "note": "Volcanus/Utupu-Tanuri/Boldarnator/Zyngen/Dangote 等官方保留英文未译（语料零命中=正确）;Eye of Harmony/Molecular Transformer 等无官方语料确认保留英文",
+ "untouched": "assets/gtnhplanner/power/resource-map.json (3374条,云端匹配风险,handoff 5.4可选项)"
+}
